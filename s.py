@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 from st_files_connection import FilesConnection
 
-"# Streamlit FilesConnection"
+"# Streamlit FilesConnection !"
 
 """
 A simple demo for Streamlit FilesConnection.
