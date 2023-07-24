@@ -108,3 +108,11 @@ Please don't spend a bunch of time working on a PR without checking with us firs
 Also note, the Streamlit `experimental_connection()` interface is open for 3rd party packages and we look forward to promoting high quality ones in
 the ecosystem. If you have an idea that differs from our direction here, we would love for you to fork / clone, build it, and share it with us and
 the wider community. Thank you!
+
+
+
+poetry lock 
+poetry install
+poetry shell
+
+conda install -c conda-forge pyarrow
